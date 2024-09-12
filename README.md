@@ -7,4 +7,7 @@ FirstScreen
 ![image](https://github.com/user-attachments/assets/aadceb4d-3a00-486c-9818-a76d5ac064c4)
 1c
 ![image](https://github.com/user-attachments/assets/0ba2cc80-a364-462d-a30e-96508b0655d1)
+1d
+![image](https://github.com/user-attachments/assets/ed50915d-380b-4775-a03a-509446fe41de)
+
 
